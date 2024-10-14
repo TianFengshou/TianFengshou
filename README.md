@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on GXZY, a Chinese technology company. I established and managed the East China R&D Center.
 - 🌱 I’m currently learning data science at UTM.
 - :black_nib: I write blogs on multiple Chinese websites and have multiple columns. If you are interested, I suggest visiting my blog on [CSDN](https://fonttian.blog.csdn.net/?type=blog) or [Zhihu](https://www.zhihu.com/people/fonttian).
-- 💬 Ask me anything that you are interested about me
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-田丰收-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%B8%B0%E6%94%B6-%E7%94%B0-892097114/) <a href="mailto:fonttian@gmail.com"><img src="https://img.shields.io/badge/fonttian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+- 💬 Ask me anything that you are interested about me.
+- 📫 How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-田丰收-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%E4%B8%B0%E6%94%B6-%E7%94%B0-892097114/) <a href="mailto:fonttian@gmail.com"><img src="https://img.shields.io/badge/fonttian@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
 
 ## Skill 🛠️
 
@@ -30,28 +30,28 @@
 
 ### 🎓Education
 
-- **Bachelor of Computer Science and Technology**:  Shandong University of Science and Technology（2015-2019）
-- **Master of Data Science**: Universiti Teknologi Malaysia (ongoing)
+- **Bachelor of Computer Science and Technology**:  Shandong University of Science and Technology (2015-2019).
+- **Master of Data Science**: Universiti Teknologi Malaysia (ongoing).
 
 ### 💼Work
 
-- **Big Data Engineer, R&D Supervisor and Data Scientist**: Gaoxunzhenyuan Technology Co., Ltd(GXZY)
-- **Graduate Internship Teacher**: School of Mathematics and Statistics, Shandong Normal University（2020-2023）
-- **Graduate industry instructor**: School of Artificial Intelligence, Taishan University（2022-2027）
+- **Big Data Engineer, R&D Supervisor and Data Scientist**: Gaoxunzhenyuan Technology Co., Ltd (GXZY).
+- **Graduate Internship Teacher**: School of Mathematics and Statistics, Shandong Normal University (2020-2023).
+- **Graduate industry instructor**: School of Artificial Intelligence, Taishan University (2022-2027).
 
 ### :trophy:Competition
 
-- **Completed the National Student Science and Technology Innovation Project**: Shandong University of Science and Technology (2017-2018)
-- **First Prize and Second Prize in Shandong Division**: Undergraduate Group of China Mathematical Modeling Competition (2017, 2018)
-- **National Second Prize**: MatherCup College Mathematics Face to Face Challenge Undergraduate Group (2019)
-- **Solo Silver Meda**: Featured, Kaggle. Won Silver Meda for placing 69th place in [Learning Agency Lab - Automated Essay Scoring 2.0](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2).(2024.7.3).
+- **Completed the National Student Science and Technology Innovation Project**: Shandong University of Science and Technology (2017-2018).
+- **First Prize and Second Prize in Shandong Division**: Undergraduate Group of China Mathematical Modeling Competition (2017, 2018).
+- **National Second Prize**: MatherCup College Mathematics Face to Face Challenge Undergraduate Group (2019).
+- **Solo Silver Meda**: Featured, Kaggle. Won Silver Meda for placing 69th place in [Learning Agency Lab - Automated Essay Scoring 2.0](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2) (2024.7.3).
 
 ### :sparkles:Others
 
-- **The early founders of the iBooker open source community**（2018）
-- **Blog expert certification**: CSDN technology community(2019)
-- **Advanced Software Engineering Certification**: ZTE Software Technology(2019)
-- **PyTorch Chinese document administrator ** (June 2019, Issue 3)
+- **The early founders of the iBooker open source community** (2018).
+- **Blog expert certification**: CSDN technology community (2019).
+- **Advanced Software Engineering Certification**: ZTE Software Technology (2019).
+- **PyTorch Chinese document administrator**: ApacheCN, iBooker (June 2019, Issue 3). 
 
 ## 📊 My GitHub Statistics
 
