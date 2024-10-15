@@ -40,7 +40,7 @@
 - **Graduate industry instructor**: School of Artificial Intelligence, Taishan University (2022-2027).
 
 ### :trophy:Competition
-
+- **Vice President of Software Association**: Shandong University of Science and Technology(2016).
 - **Completed the National Student Science and Technology Innovation Project**: Shandong University of Science and Technology (2017-2018).
 - **First Prize and Second Prize in Shandong Division**: Undergraduate Group of China Mathematical Modeling Competition (2017, 2018).
 - **National Second Prize**: MatherCup College Mathematics Face to Face Challenge Undergraduate Group (2019).
