@@ -4,9 +4,9 @@
 -----
 ## 🚀About me
 
-  My full name is Tian Fengshou or Aaron De Tian.
-  The first name is directly spelled in Chinese Pinyin, while the second name is more westernized.
-  Tian is my surname, and De is the middle name from my family.
+  My full name is Tian Fengshou or Aaron De Tian.  
+  The first name is directly spelled in Chinese Pinyin, while the second name is more westernized.  
+  Tian is my surname, and De is the middle name from my family.  
 
 - :cn:  I come from Heze City, Shandong Province, China. My Chinese name is 田丰收.
 - 🔭 I’m currently working on GXZY, a Chinese technology company. I established and managed the East China R&D Center.
@@ -40,7 +40,7 @@
 - **Graduate industry instructor**: School of Artificial Intelligence, Taishan University (2022-2027).
 
 ### :trophy:Competition
-- **Vice President of Software Association**: Shandong University of Science and Technology(2016).
+
 - **Completed the National Student Science and Technology Innovation Project**: Shandong University of Science and Technology (2017-2018).
 - **First Prize and Second Prize in Shandong Division**: Undergraduate Group of China Mathematical Modeling Competition (2017, 2018).
 - **National Second Prize**: MatherCup College Mathematics Face to Face Challenge Undergraduate Group (2019).
@@ -48,6 +48,7 @@
 
 ### :scroll:Others
 
+- **Vice President of Software Association**: Shandong University of Science and Technology(2016).
 - **The early founders of the iBooker open source community** (2018).
 - **Blog expert certification**: CSDN, Chinese Software Developer Network (2019).
 - **Advanced Software Engineering Certification**: ZTE Software Technology (2019).
