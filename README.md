@@ -35,7 +35,7 @@
 
 ### 💼Work
 
-- **Big Data Engineer, R&D Supervisor and Data Scientist**: Gaoxunzhenyuan Technology Co., Ltd (GXZY).
+- **Big Data Engineer, R&D Supervisor and Data Scientist**: Gaoxunzhenyuan Technology Co., Ltd (2019，2020-now).
 - **Graduate Internship Teacher**: School of Mathematics and Statistics, Shandong Normal University (2020-2023).
 - **Graduate industry instructor**: School of Artificial Intelligence, Taishan University (2022-2027).
 
