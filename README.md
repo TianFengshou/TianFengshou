@@ -7,6 +7,8 @@
 
 ## 🚀About me
 
+
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>  My full name is Tian Fengshou, you can also call me Aaron De Tian. </p>
@@ -19,6 +21,8 @@
     <img src="img/TianFengshou_LeatherRobe_Shirt_Tie_RedBackground.png" alt="田丰收_写真_皮衣_衬衫_领带_红色背景" style="max-width: 100%;">
   </div>
 </div>
+
+
 
 - :cn:  I come from Jinan City, Shandong Province, China. My Chinese name is 田丰收.
 - 🔭 I’m currently working on GXZY, a Chinese technology company. I established and managed the East China R&D Center.
