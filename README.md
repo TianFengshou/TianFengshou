@@ -7,14 +7,21 @@
 
 ## 🚀About me
 
-  My full name is Tian Fengshou, you can also call me Aaron De Tian.  
 
-  The world is concrete and complex, so we need to capture its essence with abstract and concise data.  
 
-  I am a data scientist and geek, passionate about using knowledge and action to change the world.  
-
-  I believe that technology and artificial intelligence are transformative forces driving innovation, enabling us to solve real-world problems more effectively and ethically, and break through the possible boundaries of every field.  
-
+<table>
+<tr>
+<td style="width: 50%;">
+<p>  My full name is Tian Fengshou, you can also call me Aaron De Tian.</p>
+<p>  The world is concrete and complex, so we need to capture its essence with abstract and concise data.</p>
+<p>  I am a data scientist and geek, passionate about using knowledge and action to change the world. </p>
+<p>  I believe that technology and artificial intelligence are transformative forces driving innovation, enabling us to solve real-world problems more effectively and ethically, and break through the possible boundaries of every field. </p>
+</td>
+<td style="width: 50%;">
+<img src="img/TianFengshou_LeatherRobe_Shirt_Tie_RedBackground.png" alt="田丰收_写真_皮衣_衬衫_领带_红色背景" style="max-width: 100%;">
+</td>
+</tr>
+</table>
 
 - :cn:  I come from Jinan City, Shandong Province, China. My Chinese name is 田丰收.
 - 🔭 I’m currently working on GXZY, a Chinese technology company. I established and managed the East China R&D Center.
