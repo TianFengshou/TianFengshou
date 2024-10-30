@@ -98,7 +98,7 @@
 <p align="center">
 <a href="https://github.com/TianFengshou">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TianFengshou&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TianFengshou&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TianFengshou&layout=compact&langs_count=8&show_icons=true&count_private=true"/>
 </a>
 </p>
 
