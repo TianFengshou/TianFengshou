@@ -68,7 +68,7 @@
 ### 🎓Education
 
 - **Bachelor of Computer Science and Technology**:  Shandong University of Science and Technology (2015-2019).
-- **Master of Data Science**: Universiti Teknologi Malaysia (ongoing).
+- **Master of Data Science**: Universiti Teknologi Malaysia (2024-2026).
 
 ### 💼Work
 
